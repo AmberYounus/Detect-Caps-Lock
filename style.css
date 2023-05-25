@@ -1,1 +1,19 @@
 
+* {
+  font-family: Cambria, Cochin;
+}
+.container {
+  margin-top: 83px;
+  margin-left: 589px;
+  font-size: 22px;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 65px;
+  text-decoration-line: underline;
+}
+input[type="text"] {
+  border: none;
+  font-size: 25px !important;
+}
